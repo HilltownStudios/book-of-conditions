@@ -3,7 +3,7 @@ An in-depth look at functional conditions, including disability and superability
 
 ## Contents
 * [0. Introduction](https://github.com/HilltownStudios/book-of-conditions/blob/master/0.introduction.md)
-* [1. Auditory Conditions]
+* [1. Auditory Conditions](https://github.com/HilltownStudios/book-of-conditions/blob/master/1.auditory-conditions.md)
 * [2. Cognitive Conditions]
 * [3. Gustatory Conditions]
 * [4. Musculoskeletal Conditions]
@@ -11,7 +11,7 @@ An in-depth look at functional conditions, including disability and superability
 * [6. Somatosensory Conditions]
 * [7. Thaumatic Conditions]
 * [8. Vestibular Conditions]
-* [9. Visual Conditions]
+* [9. Visual Conditions](https://github.com/HilltownStudios/book-of-conditions/blob/master/9.visual-conditions.md)
 
 ## Contributing
 To do
